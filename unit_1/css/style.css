@@ -1,10 +1,13 @@
 body {
-	background-color: #FFFFFF;
+	background-color: #008080;
 }
 
 h1, p {
+	color: #808080;
+}
+h2, p {
 	color: #FFFFFF;
 }
-h3 p {
-	color: #FFFFFF;
+h3, p {
+	color: #000000;
 }
