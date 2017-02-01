@@ -1,0 +1,21 @@
+body {
+    background-image: url("image/Yosemite.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1 {
+	font-family: Arial, sans-serif;
+	font-size:24px;
+	color: white;
+	text-transform: uppercase;
+}
+h3 {
+	font-family: Arial, sans-serif;
+	font-size:18px;
+	color: white;
+	text-transform: uppercase;
+}
+body{
+	text-align: center;
+}
