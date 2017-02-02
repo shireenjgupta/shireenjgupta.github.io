@@ -1,16 +1,18 @@
-h1 {
+body {
+	background-color: #010101;
+}
+
+h1, p {
+	color: #FEFEFE;
 	font-family: Arial, sans-serif;
 	font-size: 24px;
 	text-transform: uppercase;
 	text-align: center;
 }
-h3 {
+h2, p {
+	color: #FEFEFE;
 	font-family: Arial, sans-serif;
 	font-size: 18px;
 	text-transform: uppercase;
 	text-align: center;
-}
-body {
-	background-color: black;
-	color: white;
 }
