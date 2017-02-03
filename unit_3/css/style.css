@@ -10,17 +10,17 @@ nav{
 	border: 1px white solid;
 	padding: 20px;
 }
-.work {
+section {
 	background-color: #E89C6C
 	border: 1px white solid;
 	padding: 20px;
 }
-.process {
+article {
 	background-color: #E89C6C
 	border: 1px white solid;
 	padding: 20px;
 }
-.story {
+aside {
 	background-color: #E89C6C
 	border: 1px white solid;
 	padding: 20px;
