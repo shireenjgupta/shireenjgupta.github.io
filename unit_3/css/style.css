@@ -12,8 +12,18 @@ nav{
 }
 article {
 	background-color: #E89C6C;
+}
+.work {
 	border: 1px white solid;
-	padding: 30px;
+	padding: 20px;
+}
+.process {
+	border: 1px white solid;
+	padding: 20px;
+}
+.story {
+	border: 1px white solid;
+	padding: 20px;
 }
 footer {
 	background-color: #FF957E;
