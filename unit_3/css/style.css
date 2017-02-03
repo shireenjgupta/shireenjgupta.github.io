@@ -10,18 +10,18 @@ nav{
 	border: 1px white solid;
 	padding: 20px;
 }
-article {
-	background-color: #E89C6C;
-}
 .work {
+	background-color: #E89C6C
 	border: 1px white solid;
 	padding: 20px;
 }
 .process {
+	background-color: #E89C6C
 	border: 1px white solid;
 	padding: 20px;
 }
 .story {
+	background-color: #E89C6C
 	border: 1px white solid;
 	padding: 20px;
 }
