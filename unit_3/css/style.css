@@ -1,22 +1,27 @@
 @import url('https://fonts.googleapis.com/css?family=Pragati+Narrow:700');
 
 header {
-	background-color: #FFED74;
+	background-color: #010101;
 	border: 1px white solid;
 	padding: 20px;
 }
 nav{
-	background-color: #E8C66A;
+	background-color: #010101;
 	border: 1px white solid;
 	padding: 20px;
 }
 article {
-	background-color: #E89C6C;
+	background-color: #010101;
+	border: 1px white solid;
+	padding: 20px;
+}
+aside {
+	background-color: #010101;
 	border: 1px white solid;
 	padding: 20px;
 }
 footer {
-	background-color: #FF957E;
+	background-color: #010101;
 	border: 1px white solid;
 	padding: 20px;
 }
