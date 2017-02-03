@@ -13,14 +13,7 @@ nav{
 section {
 	background-color: #E89C6C
 	border: 1px white solid;
-}
-article {
-	background-color: #E89C6C
-	border: 1px white solid;
-}
-aside {
-	background-color: #E89C6C
-	border: 1px white solid;
+	padding: 20px;
 }
 footer {
 	background-color: #FF957E;
