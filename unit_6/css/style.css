@@ -7,15 +7,7 @@ header {
 }
 nav{
 	background-color: #010101;
-	font-family: 'Pragati Narrow', sans-serif;
 	border: 1px white solid;
-	padding: 20px;
-}
-a {
-	background-color: #010101;
-	color: white;
-	text-decoration: none;
-	float: center;
 	padding: 20px;
 }
 article {
